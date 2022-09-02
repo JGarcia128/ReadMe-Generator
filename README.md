@@ -15,6 +15,9 @@ Demostration
    
    This is a video demonstrating the process on creating ReadMe Page 
   ![Capture](https://user-images.githubusercontent.com/107437105/186350798-d218fa11-980c-4919-9ddc-e9ed1af628ac.PNG)
+  
+  This is the process of going through Git Bash to create the page.
+  https://drive.google.com/file/d/1Kq-AQXEerVGRylFaRBoRqc--sTyK-6Qk/view
 
 
 This is the final image of the readme page
